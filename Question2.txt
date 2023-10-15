@@ -1,0 +1,5 @@
+1)justify-content:-used to control the horizontal alignment of flex items within a flex container. It determines how the extra space in the container is distributed along the main axis (the direction in which the items are laid out).
+2)Align-items:-used to control the vertical alignment of flex items within a flex container. It determines how the items are aligned along the cross-axis (the perpendicular axis to the main axis).
+3)Gap:- used to specify the space between grid and flex items in grid containers and flex containers.
+4)Flex-direction:-defines how the flex items within a flex container are laid out along the main axis. It determines the direction in which the items are displayed within the container.
+5)flex-wrap:-used to control whether flex items within a flex container should wrap onto a new line or stay on the same line when they exceed the available space along the main axis. This property helps manage how flex items are displayed when the available space is insufficient to accommodate all items in a single line.
